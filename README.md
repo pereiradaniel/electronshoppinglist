@@ -1,3 +1,5 @@
+*This is a forked repo!  Please see the original repository if you would like to follow the tutorial!*
+
 # Electron ShoppingList Desktop App
 
 This is a cross platform shoppinglist desktop application built on electron
