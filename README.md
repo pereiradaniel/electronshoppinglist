@@ -4,6 +4,8 @@
 
 This is a cross platform shoppinglist desktop application built on electron
 
+---
+
 ### Version
 1.0.0
 
@@ -43,3 +45,7 @@ For Linux
 ```sh
 $ npm run package-linux
 ```
+
+---
+
+_*Daniel Paul Grech Pereira 2017*_
